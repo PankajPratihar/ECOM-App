@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .card{
+    border: 2px solid black;
+    max-width: 23vw;
+    margin: 30px;
+    margin-left: 80px;
+    padding: 10px;
+  }
+  
+  .container{
+    display: flex;
+    gap: 34px;
+    flex-wrap: wrap;
+  } */
+  
+  /* *{
+    margin: 10px;
+    padding: 10px;
+  } */
+.card:hover{
+  transform: scale(1.05);
+}
+  
+  li{
+    list-style: none;
+    
+  }
